@@ -1,0 +1,7 @@
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\bin\Debug\TickTacToe.exe.config
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\bin\Debug\TickTacToe.exe
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\bin\Debug\TickTacToe.pdb
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\obj\Debug\TickTacToe.csprojAssemblyReference.cache
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\obj\Debug\TickTacToe.csproj.CoreCompileInputs.cache
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\obj\Debug\TickTacToe.exe
+D:\Udemy - Complete CSharp Masterclass\Proyects\TickTacToe\TickTacToe\obj\Debug\TickTacToe.pdb
